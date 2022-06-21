@@ -4,25 +4,25 @@ labels: ["bug"]
 body:
   - type: textarea
     attributes:
-      label: Describe the bug :boom:
+      label: Describe the bug
       description: Provide a clear and concise description of what the bug is.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Actual behavior :thumbsdown:
+      label: Actual behavior
       description: Provide a clear and concise description of what happend.
     validations:
       required: false
   - type: textarea
     attributes:
-      label: Expected behavior :pray:
+      label: Expected behavior
       description: Provide a clear and concise description of what you expected to happen.
     validations:
       required: false
   - type: textarea
     attributes:
-      label: How to Reproduce? :repeat:
+      label: How to Reproduce?
       description: Provide clear and concise steps to reproduce the problem.
       placeholder: |
         Steps to reproduce the behavior:
@@ -34,7 +34,7 @@ body:
       required: false
   - type: textarea
     attributes:
-      label: Additional context :gem:
+      label: Additional context
       description: Anything that will give us more context about the issue you are encountering (OS, Version, Links, References, ...)!
       placeholder: |
         - OS: [e.g. iOS 15]
