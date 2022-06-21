@@ -8,9 +8,3 @@ Summary
 ## Fixes
 <!-- Witch issue does this request close. You can add multiple -->
 Issue: #
-
-## Checklist
-- [ ] Tests added
-- [ ] New and existing tests passed
-- [ ] Well documented
-- [ ] No redundant or duplicate code
